@@ -1,2 +1,2 @@
 # Covenant-Univesity-Lightning-Data
-This is an extraction  of the the lighntning strikes that has occurred  from 2015 to 2023 in 2km radius from the medical center in covenant university. 
+This is an extraction of lightning strikes that occurred from 2015 to 2023 within a 2km radius of the medical centre at Covenant University. 
