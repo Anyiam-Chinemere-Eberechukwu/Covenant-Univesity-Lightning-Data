@@ -1,0 +1,3 @@
+polarity,n_strokes,empirical_median_kA,lognormal_median_kA,sigma_ln,sigma_log10,mean_kA,max_kA,I_exceeded_95pct_kA,I_exceeded_90pct_kA,I_exceeded_80pct_kA,I_exceeded_50pct_kA,I_exceeded_20pct_kA,I_exceeded_10pct_kA,I_exceeded_5pct_kA,I_exceeded_1pct_kA
+Negative,295,7.7,7.51,0.41,0.178,8.19,39.2,3.83,4.44,5.32,7.51,10.6,12.7,14.74,19.48
+Positive,626,10.1,9.85,0.511,0.222,11.17,30.3,4.25,5.12,6.41,9.85,15.13,18.94,22.8,32.29
